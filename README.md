@@ -5,9 +5,8 @@ Provide a short description explaining the what, why, and how of your project. U
 This web page was created to enable me to store my notes as I learn to code more. This page will also help me keep all my notes organized and will exist on the web where it could be useful for other learners. I learned that If I follow consistent steps, it will help my organization of thought a lot.
 
 
-## Installation
-
-N/A
+## Deployed Application
+https://esrawameed.github.io/prework-study-guide/
 
 ## Usage
 
